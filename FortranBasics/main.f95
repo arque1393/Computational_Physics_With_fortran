@@ -1,5 +1,10 @@
 program main 
-    use extream_1
+    use basic 
     implicit none
-     data_types_viewer()
+    logical :: b
+    ! ! Calling a function 
+    ! b = data_types_viewer()
+    ! ! Calling a subroutine 
+    ! call string_experiment()
+    ! call array_experiment()
 end program

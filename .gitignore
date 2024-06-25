@@ -2,3 +2,5 @@
 *.out
 *.mod
 *.o
+*/build/
+*/input
